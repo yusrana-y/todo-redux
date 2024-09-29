@@ -1,0 +1,13 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  /* background-image: url(https://img.freepik.com/free-photo/top-view-international-worker-s-day-still-life_23-2150337550.jpg?t=st=1727636529~exp=1727640129~hmac=dc81b14a91066ee49f08dd440c12140df7ddcb03164b1dc9359189ed3a79b665&w=1060); */
+  background-image: url(https://img.freepik.com/free-photo/boss-s-day-arrangement-light-blue-background-with-copy-space_23-2148664091.jpg?t=st=1727636707~exp=1727640307~hmac=0d7134915d9b72c2032a071e43b6aaf3fca3f487877b4818acc19074796831a2&w=1380);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
